@@ -212,7 +212,7 @@ color: var(--main-color);
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(/images/img.jpg) no-repeat;
+    background: url(./img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
